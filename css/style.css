@@ -1,0 +1,27 @@
+.image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.img-div {
+    font-size: medium;
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+.title {
+    background-color: gainsboro;
+}
+
+main {
+    font-style: Arial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gainsboro;
+}
+
+body {
+    text-align: center;
+}
